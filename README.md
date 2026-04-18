@@ -55,6 +55,11 @@ selenium-qa-practice/
 | tests/test_14_fixtures.py | fixtures — chrome opens once for all tests | ✅ |
 | tests/test_15_data_driven.py | one test runs with 4 different login combinations | ✅ |
 | tests/test_16_full_suite.py | 7 login tests in a class — runs together | ✅ |
+| sql_day1_basics.py | create table, insert rows, select, where, count | ✅ |
+| sql_day2_crud.py | update, delete, like, and/or — full crud with qa checks | ✅ |
+| sql_day3_pytest_db.py | sql inside pytest — 7 db validation tests | ✅ |
+| sql_day4_advanced.py | joins, duplicates, null checks, group by | ✅ |
+| sql_day5_portfolio.py | complete qa db report — 7 checks, crud | ✅ |
 
 ## run all 17 tests at once
 
@@ -123,6 +128,6 @@ still a lot to learn but the progress feels real.
 
 ## next
 
-- sql for qa (week 6)
+- sql for qa (week 6) ✅ DONE
 - full portfolio cleanup (week 7)
 - apply everywhere (week 8)
